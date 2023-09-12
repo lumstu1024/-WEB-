@@ -8,7 +8,7 @@ TROJAN_WSPATH='/trojan'
 SS_WSPATH='/shadowsocks'
 NEZHA_SERVER="tz.lumstu.link"
 NEZHA_PORT=5555
-NEZHA_KEY="78LbQNyb19cCDOIbWf"
+NEZHA_KEY="e9xLvcmLfXaKppmTLT"
 
 
 
